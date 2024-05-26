@@ -1,6 +1,3 @@
-Certainly! Below is a basic template for a README file for your project involving visualization of hydrogen atom electron distributions. You can adapt this template to include more specific information about your project as needed.
-
-```markdown
 # Hydrogen Atom Electron Distribution Visualization
 
 This project provides tools to visualize the electron probability distributions of hydrogen atom orbitals based on solutions to the Schrödinger equation. It includes functionalities for generating 2D slices of the 3D probability density and interactive visualizations using Jupyter notebooks.
@@ -38,7 +35,7 @@ pip install ipympl
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/yourusername/hydrogen-atom-visualization.git
+git clone https://github.com/gabobaby/quantum_orbital_visualizations.git
 ```
 
 Navigate to the cloned directory:
@@ -64,22 +61,7 @@ Contributions to this project are welcome! Here are some ways you can contribute
 - Suggest new features or enhancements.
 - Improve documentation.
 
-Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the quantum mechanics community for providing the theoretical foundations for this project.
 - Hat tip to anyone whose code was used as inspiration or directly utilized.
-- Special thanks to [Your University/Institution] for supporting this project.
-
-```
-
-### Notes:
-- **Repository Links**: Make sure to replace `https://github.com/yourusername/hydrogen-atom-visualization.git` with the actual URL of your GitHub repository.
-- **Contributing Guide and License**: This README suggests the inclusion of a `CONTRIBUTING.md` and a `LICENSE` file. Ensure you create these files in your repository if they do not yet exist. The `LICENSE` file should contain the actual license text, and MIT is suggested as it is permissive and widely used in open source projects.
-
-This README template sets a clear, straightforward path for users and potential contributors to understand, use, and collaborate on your project. Adjust the content as needed to fit the specific aspects and goals of your work.
